@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="14412" started-at="2020-07-12T12:26:51 IST" finished-at="2020-07-12T12:27:06 IST">
+    <groups>
+    </groups>
+    <test name="Test1" duration-ms="14412" started-at="2020-07-12T12:26:51 IST" finished-at="2020-07-12T12:27:06 IST">
+      <class name="com.fitabank.testcases.LoginTest">
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:com.fitabank.testcases.LoginTest@56235b8e]" name="setUp" is-config="true" duration-ms="11365" started-at="2020-07-12T12:26:51 IST" finished-at="2020-07-12T12:27:03 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="validUserlogin()[pri:0, instance:com.fitabank.testcases.LoginTest@56235b8e]" name="validUserlogin" duration-ms="2876" started-at="2020-07-12T12:27:03 IST" finished-at="2020-07-12T12:27:06 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validUserlogin -->
+      </class> <!-- com.fitabank.testcases.LoginTest -->
+    </test> <!-- Test1 -->
+  </suite> <!-- Suite -->
+</testng-results>

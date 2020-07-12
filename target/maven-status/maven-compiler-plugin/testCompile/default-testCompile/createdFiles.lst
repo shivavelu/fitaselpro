@@ -1,0 +1,14 @@
+com\fitabank\utilities\ReadProp.class
+com\fitabank\grid\GridTest1.class
+com\fitabank\pages\WelcomePage.class
+com\fitabank\grid\GridTest2.class
+com\fitabank\pages\AddCustomer.class
+com\fitabank\testcases\AddCustomerTest.class
+com\fitabank\utilities\XLUtils.class
+com\fitabank\grid\GridTest4.class
+com\fitabank\grid\GridTest3.class
+com\fitabank\testcases\LoginDDT.class
+com\fitabank\testcases\LoginTest.class
+com\fitabank\utilities\Reporting.class
+com\fitabank\base\BaseTest.class
+com\fitabank\pages\LoginPage.class
